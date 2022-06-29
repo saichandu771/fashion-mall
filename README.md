@@ -1,2 +1,2 @@
 # fashion-mall
-tring out things in css ,js and html
+trying out things in css ,js and html
